@@ -1,0 +1,27 @@
+{
+  "name": "uzdevid/yii2-agora",
+  "description": "Videoconferencing with Agora",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "agora",
+    "videocall",
+    "voicecall"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ibragimov Diyorbek",
+      "email": "uzdevid@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "uzdevid\\agora\\": ""
+    }
+  }
+}
