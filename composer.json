@@ -1,9 +1,10 @@
 {
   "name": "uzdevid/yii2-agora",
-  "description": "Videoconferencing with Agora",
+  "description": "Yii2 extension for Agora.io",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
+    "uzdevid",
     "agora",
     "videocall",
     "voicecall"
@@ -15,7 +16,6 @@
       "email": "uzdevid@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "yiisoft/yii2": "~2.0.0"
   },

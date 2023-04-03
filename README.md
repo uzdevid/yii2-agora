@@ -10,22 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist uzdevid/yii2-agora "*"
+php composer.phar require --prefer-dist uzdevid/yii2-agora "1.0.0"
 ```
 
 or add
 
 ```
-"uzdevid/yii2-agora": "*"
+"uzdevid/yii2-agora": "1.0.0"
 ```
 
 to the require section of your `composer.json` file.
-
-
-Usage
------
-
-Once the extension is installed, simply use it in your code by  :
-
-```php
-<?= \uzdevid\agora\Agora::widget(); ?>```
